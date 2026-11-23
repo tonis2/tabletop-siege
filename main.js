@@ -1,4 +1,4 @@
-// Tabletop Siege — knocking down toy castles with thrown stones (gameplan.md).
+// Tabletop Siege — knocking down toy castles with thrown stones.
 //
 // Runs on three.c3 (github.com/tonis2/three.c3). From a three.c3 checkout
 // beside this one:
