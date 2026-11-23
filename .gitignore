@@ -1,2 +1,5 @@
 # Plans are local notes, not part of the repo.
 gameplan.md
+
+# Blender keeps the previous save beside the file.
+*.blend1
